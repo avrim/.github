@@ -12,20 +12,18 @@
     - Homepage: <https://robertsaupe.de>
     - E-Mail: <mail@robertsaupe.de>
 - About
-  - English
-    - Get to know AVRIM
-      - AVRIM is a mixture of words from App and Evrim.
-      - Avrim is a turkish name. Translated, it means "Evolution".
-      - It is a Toolkit/Framework, to create Websites, Blogs or PWA/Apps.
-      - With the powerful and flexible functions you have countless possibilities.
-      - Be creative and let the software do the rest.
-  - Deutsch
-    - Lernen Sie AVRIM kennen
-      - AVRIM ist eine Wortmischung von App und Evrim.
-      - Evrim ist ein türkischer Name. Übersetzt bedeutet er "Evolution".
-      - Es ist ein Toolkit/Framework, mit der Webseiten, Blogs oder PWA/Apps erstellt werden können.
-      - Mit den mächtigen und flexiblen Funktionen stehen Ihnen unzählige Möglichkeiten zur Verfügung.
-      - Seien Sie kreativ und lassen Sie die Software den Rest erledigen.
+  - English: Get to know AVRIM
+    - AVRIM is a mixture of words from App and Evrim.
+    - Avrim is a turkish name. Translated, it means "Evolution".
+    - It is a Toolkit/Framework, to create Websites, Blogs or PWA/Apps.
+    - With the powerful and flexible functions you have countless possibilities.
+    - Be creative and let the software do the rest.
+  - Deutsch: Lernen Sie AVRIM kennen
+    - AVRIM ist eine Wortmischung von App und Evrim.
+    - Evrim ist ein türkischer Name. Übersetzt bedeutet er "Evolution".
+    - Es ist ein Toolkit/Framework, mit der Webseiten, Blogs oder PWA/Apps erstellt werden können.
+    - Mit den mächtigen und flexiblen Funktionen stehen Ihnen unzählige Möglichkeiten zur Verfügung.
+    - Seien Sie kreativ und lassen Sie die Software den Rest erledigen.
 
 <br />
 <br />
