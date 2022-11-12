@@ -4,6 +4,8 @@
 
 ## Info
 
+A collection of tools to create amazing websites, apps or similar.
+
 - Homepage: <https://avrim.de>
 - E-Mail: <mail@avrim.de>
 - Owner/Developer:
